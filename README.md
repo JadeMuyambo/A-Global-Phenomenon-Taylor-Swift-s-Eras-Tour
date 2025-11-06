@@ -5,7 +5,6 @@ This project explores the global impact of Taylor Swift's Eras Tour through data
 Communicate the scale and reach of the Eras Tour had both musically and economically through concise, print-ready charts and maps. The project emphasizes thoughtful chart selection, clean typography, and a cohesive visual narrative.
 
 ## 📊 Tools Used
-## 📊 Tools Used
 - Adobe Illustrator (illustrations and design)
 - Flourish (chart creation)
 - Excel and Numbers (data preparation and cleaning)
