@@ -30,6 +30,9 @@ Communicate the scale and reach of the Eras Tour had both musically and economic
 
 > Chart types were selected for label legibility, correct visual encodings (length/area), and alignment with *The Economist* style.
 
+## 📄 License
+- This project is licensed under the MIT lisence. See license file for details.
+
 ## 👩🏽‍💻 Author
 **Jade Muyambo**  
 Graduate Student — Data Science
